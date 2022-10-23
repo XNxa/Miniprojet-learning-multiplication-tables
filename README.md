@@ -1,6 +1,6 @@
 # Miniprojet-learning-multiplication-tables
 
-I did this project during my first year at the Enseeiht, it's a quick project in Ada to put into practice imperative programming notions.
+I did this project during my first year at Enseeiht, it's a quick project in Ada to put into practice imperative programming notions.
 
 ## Goal
 
