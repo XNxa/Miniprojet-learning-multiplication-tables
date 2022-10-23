@@ -11,7 +11,7 @@ The purpose of this code is to allow a user to to study the multicplication tabl
 * Choose the table to be reviewed between 1 and 10.
 * Put multiplications randomly, avoiding to put twice in a row the same multiplication.
 * Count the number of errors and give an indication to the user at the end of the game to know if he/she should rework or not.
-* Time the answer to each question and offer the user to revise a table if their answer time was higher than the average of their times.
+* Time the answer to each question and offer the user to revise a table if his answer time was higher than the average of his times.
 * At the end of each game, ask the user if they wish to replay.
 
 ## Running the program
