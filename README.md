@@ -1,10 +1,10 @@
 # Miniprojet-learning-multiplication-tables
 
-I did this project during my first year at Enseeiht, it's a quick project in Ada to put into practice imperative programming notions.
+I did this project during my first year at Enseeiht. It's a quick project in Ada to put into practice imperative programming notions.
 
 ## Goal
 
-The purpose of this code is to allow a user to to study the multicplication tables using a console interface.
+The purpose of this code is to allow a user to study the multiplication tables using a console interface.
 
 ## Features
 
